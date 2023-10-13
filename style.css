@@ -1,0 +1,116 @@
+.partOne{
+    display: flex;
+}
+
+.partTwo{
+    display: flex;
+
+}
+.partThree{
+    display: flex;
+}
+
+.html{
+    border: 3px solid black;
+    width: 50%;
+    margin: 10px 15px 10px 50px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.css{
+    border: 3px solid black;
+    width: 50%;
+    margin: 10px 0px 10px 0px;
+    /*
+    margin: 10px 50px;*/
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.js{
+    border: 3px solid black;
+    width: 50%;
+    margin: 10px 50px 10px 15px;
+    /*
+    margin: 10px 50px;*/
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.ic{
+    width: 15%;
+}
+
+h1{
+    font-size: 70px;
+    color: grey;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.textOne{
+    width: 80%;
+    padding-left: 20px;
+    
+}
+
+.lastHeader{
+    padding-left: 20px;
+}
+
+.picOne{
+    width: 30%;
+}
+
+.picTwo{
+    width: 60%;
+}
+
+.textTwo{
+    margin: 20px;
+    padding: 20px;
+    width: 85%;
+    padding-right: 150px;
+}
+
+ul{
+    color: grey;
+}
+
+p{
+    color: grey;
+}
+
+footer{
+    padding-left: 20px;
+}
+
+.secondPic{
+    display: flex;
+    justify-content: end;
+}
+
+.pic{
+    display: flex;
+    justify-content: start;
+}
+
+.wordOne{
+    color: #E34F26;
+}
+
+.wordTwo{
+    color: #1572B6;
+}
+.wordThree{
+    color: #F7DF1E;
+}
+
+html
+{
+    background-color: antiquewhite;
+}
